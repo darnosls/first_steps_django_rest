@@ -1,5 +1,11 @@
 # first_steps_django_rest
-My first steps with Django REST framework
+My first steps with Django REST framework.
+References guide: http://www.django-rest-framework.org/tutorial/quickstart/
 
-
-# Installation and setting
+    ## Steps
+        - Project setup
+        - Serializers
+        - Views
+        - Urls
+        - Settings
+        - Test API
