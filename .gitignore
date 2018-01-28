@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -54,6 +55,9 @@ coverage.xml
 *.log
 local_settings.py
 
+
+db.sqlite3
+media
 # Flask stuff:
 instance/
 .webassets-cache
@@ -86,6 +90,8 @@ celerybeat-schedule
 .venv
 venv/
 ENV/
+env.bak/
+venv.bak/
 
 # Spyder project settings
 .spyderproject
