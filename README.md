@@ -2,10 +2,10 @@
 My first steps with Django REST framework.
 References guide: http://www.django-rest-framework.org/tutorial/quickstart/
 
-    ## Steps
-        - Project setup
-        - Serializers
-        - Views
-        - Urls
-        - Settings
-        - Test API
+## Steps
+- Project setup
+- Serializers
+- Views
+- Urls
+- Settings
+- Test API
